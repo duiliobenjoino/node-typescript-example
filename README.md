@@ -25,7 +25,7 @@ Projeto desenvolido no ecossistema NodeJs desenvolvido com a intenção de exerc
 - ...
 
 
-Passos para rodar o projeto
+## Passos para rodar o projeto
 
 1. Ter NodeJs e PostgresSQl instalado;
 2. Clonar projeto e rodar `npm i` no diretório raiz;
