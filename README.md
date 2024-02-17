@@ -1,6 +1,6 @@
 # Projeto em NodeJs com Typescript
 
-Projeto desenvolido no ecossistema NodeJs desenvolvido com a intenção de exercitar a utilização das seguintes tecnologias:
+Projeto desenvolido no ecossistema NodeJs com a intenção de exercitar a utilização das seguintes tecnologias:
 
 - [NodeJs](https://nodejs.org/en) com [Typescript](https://www.typescriptlang.org/);
 - [Express](https://expressjs.com/), para expor uma API Rest;
