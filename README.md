@@ -12,12 +12,12 @@ Projeto desenvolido no ecossistema NodeJs com a intenção de exercitar a utiliz
 
 ## Etapas do Projeto
 
-- Desenvolver CRUD básico de usuários;
-- Desenvolver CRUD básico de categorias;
-- Desenvolver CRUD básico de Registros financeiros;
-- Inclusão de validação nas entradas da API;
-- Testes unitários com database em memória;
-- Testes integrados com database reservado à testes;
+- Desenvolver CRUD básico de usuários; :heavy_check_mark:
+- Desenvolver CRUD básico de categorias; :heavy_check_mark:
+- Desenvolver CRUD básico de Registros financeiros; :heavy_check_mark:
+- Inclusão de validação nas entradas da API; :heavy_check_mark:
+- Testes unitários com database em memória; :heavy_check_mark:
+- Testes integrados com database reservado à testes; :heavy_check_mark:
 - Incluir mais regras de negócio e aumentar cobertura de testes;
 - Adicionar controle de acesso segregando por tipo de usuário;
 - Inserir produção e consumo em filas;
